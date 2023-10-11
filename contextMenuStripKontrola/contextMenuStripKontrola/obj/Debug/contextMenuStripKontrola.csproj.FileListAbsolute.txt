@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\bin\Debug\contextMenuStripKontrola.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\bin\Debug\contextMenuStripKontrola.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\bin\Debug\contextMenuStripKontrola.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\obj\Debug\contextMenuStripKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\obj\Debug\contextMenuStripKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\obj\Debug\contextMenuStripKontrola.Form1.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\obj\Debug\contextMenuStripKontrola.Properties.Resources.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\obj\Debug\contextMenuStripKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\obj\Debug\contextMenuStripKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\obj\Debug\contextMenuStripKontrola.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\contextMenuStripKontrola\contextMenuStripKontrola\obj\Debug\contextMenuStripKontrola.pdb
